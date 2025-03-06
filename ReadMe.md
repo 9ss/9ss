@@ -1,20 +1,3 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9ss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=9ss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="250" src="https://cdnb.artstation.com/p/assets/images/images/054/816/667/large/lewis-drake-as1.jpg?1665442683"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -35,6 +18,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=9ss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -48,11 +37,15 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/Z4xhmBz.jpeg"  />
+<h2 align="left">CGI artist specializing in lighting and material design. With a strong background in Unreal Engine, Photoshop, Substance Painter, and other industry-standard tools, I craft immersive, realistic environments with a focus on detail and quality. My passion lies in creating digital worlds that captivate and engage, using advanced techniques to achieve photorealism and technical precision.</h2>
 
 ###
 
 <br clear="both">
+
+<img align="right" height="150" src="https://i.imgur.com/Z4xhmBz.jpeg"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/9ss/9ss/output/snake.svg" alt="Snake animation" />
 
